@@ -1,0 +1,146 @@
+body{
+    background-color: #8E5E2C;
+    margin: auto;
+    display: block;
+    text-align: center;
+    font-style: italic;
+}
+header{
+    background-color: #C19B5C;
+    height: 30px;
+    width: 920px;
+    margin: auto;
+    padding: 20px;
+    font-size: x-large;
+    font-style: italic;
+}
+nav{
+    background-color: #320401;
+    height: 40px;
+    width: 960px;
+    margin: auto;
+}
+ul {padding: 0px; margin: 0px;}
+li {list-style-type: none;}
+nav a {float: left; padding: 11px; display:block;
+    width: 170px;
+    text-align: center;
+background-color: #320401;
+text-decoration: none;
+color: chocolate;}
+nav a:hover {background-color: #7a0800;
+color: rgb(212, 106, 0);}
+ #historia{
+    background-color: aqua;
+    height: 50px;
+    width: 225px;
+ }
+ #tipos_de_cafe{
+    background-color: aquamarine;
+    height: 50px;
+    width: 225px;
+ }
+ #recetas_de_cafe{
+    background-color: cadetblue;
+    height: 50px;
+    width: 225px;
+ }
+ #proceso_productivo{
+    background-color: darkcyan;
+    height: 50px;
+    width: 225px;
+ }
+main{
+    margin: auto;
+    height: 900px;
+    width: 960px;
+    background-color: #1B0C09;
+    font-style: italic;
+}
+#cuadrado{
+    padding: 10px;
+    height: 880px;
+    width: 940px;
+    background-color: #7a0800;
+}
+#izquierda{
+    height: 880px;
+    width: 465px;
+    background-color: #7a0800;
+    float: left; 
+}
+#arriiz{
+    height: 440px;
+    width: 465px;
+    background-color: #7a0800;
+    text-align: justify;
+    color: #C19B5C;
+    font-size: large;
+}
+#abajiz{
+    height: 440px;
+    width: 465px;
+    background-color: #7a0800;
+    
+}
+#derecha{
+    height: 880px;
+    width: 465px;
+    background-color: #7a0800;
+    float: right; 
+}    
+#arride{
+    height: 293px;
+    width: 465px;
+    background-color: #7a0800;
+    font-size: large;
+    text-align: justify;
+    color: #C19B5C;
+}
+#medide{
+    height: 293px;
+    width: 465px;
+    background-color: #7a0800;
+    text-align: justify;
+    color: #C19B5C;
+    font-size: large;
+}
+#abajde{
+    height: 293px;
+    width: 465px;
+    background-color: #7a0800;
+    text-align: justify;
+    color: #C19B5C;
+    font-size: large;
+}    
+footer{
+    height: 100px;
+    width: 960px;
+    background-color: darkgrey;
+    margin: auto;
+    font-style: italic;
+}
+#foot1{
+    height: 80px;
+    width: 440px;
+    background-color: #360100;
+    float: left;
+    text-align: center;
+    font-style: italic;
+    font-size: larger;
+    padding: 20px;
+    margin: auto;
+    color: #C19B5C;
+}
+#foot2{
+    height: 80px;
+    width: 440px;
+    background-color: #360100;
+    float: right;
+    text-align: center;
+    font-size: larger;
+    font-style: italic;
+    padding: 20px;
+    margin: auto;
+    color: #C19B5C;
+}
